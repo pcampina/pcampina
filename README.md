@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/pcampina">
-    <img src="https://i.ibb.co/n38mR2Z/pcampina.png">
-  </a>
-</p>
+<img width="auto" src="https://i.ibb.co/B2QqG8c/pcampina-github-banner.png">
 
 # Pablo Campina
 
