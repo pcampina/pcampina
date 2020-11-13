@@ -1,7 +1,3 @@
-<img width="auto" src="https://i.ibb.co/B2QqG8c/pcampina-github-banner.png">
-
-# Pablo Campina
-
 ## Olá pessoal
 Sou um Fullstack developer, consigo me lembrar perfeitamente
 de quando ainda desenvolviamos sites com tabelas haha
