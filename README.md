@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  🌱 Currently deepening expertise in <strong>Angular</strong>, <strong>NX Monorepos</strong> & <strong>AWS</strong>
+  🌱 Currently deepening expertise in <strong>Turborepo</strong> & <strong>Angular Signals</strong>
 </p>
 
 <p>
@@ -58,7 +58,7 @@ const pabloCampina = {
   location:    "Lisbon, Portugal 🇵🇹",
   origin:      "Brazil 🇧🇷",
   focus:       ["Scalable Web Apps", "Clean Architecture", "Developer Experience"],
-  learning:    ["Angular", "NX", "AWS"],
+  learning:    ["Turborepo", "Angular Signals"],
   contact:     "pablo@campina.dev",
 };
 ```
