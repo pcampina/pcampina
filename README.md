@@ -1,3 +1,30 @@
+## 🚀 Featured App — PawseKeys
+
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🐾 PawseKeys Lite</h3>
+      <p>My first app on the <strong>Mac App Store</strong>! A lightweight keyboard utility for cat & pet lovers.</p>
+      <p>
+        <a href="https://apps.apple.com/pt/app/pawsekeys-lite/id6761140255?l=en-GB&mt=12">
+          <img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🐾 PawseKeys Pro</h3>
+      <p>The full-featured pro version with even more power and customization for the ultimate experience.</p>
+      <p>
+        <a href="https://pawsekeys.app">
+          <img src="https://img.shields.io/badge/Get_PawseKeys_Pro-pawsekeys.app-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <table width="100%">
   <tr>
     <td valign="top" width="60%">
@@ -62,33 +89,6 @@ const pabloCampina = {
   contact:     "pablo@campina.dev",
 };
 ```
-
----
-
-## 🚀 Featured App — PawseKeys
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🐾 PawseKeys Lite</h3>
-      <p>My first app on the <strong>Mac App Store</strong>! A lightweight keyboard utility for cat & pet lovers.</p>
-      <p>
-        <a href="https://apps.apple.com/pt/app/pawsekeys-lite/id6761140255?l=en-GB&mt=12">
-          <img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🐾 PawseKeys Pro</h3>
-      <p>The full-featured pro version with even more power and customization for the ultimate experience.</p>
-      <p>
-        <a href="https://pawsekeys.app">
-          <img src="https://img.shields.io/badge/Get_PawseKeys_Pro-pawsekeys.app-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
