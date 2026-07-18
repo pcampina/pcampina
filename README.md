@@ -18,8 +18,7 @@
       </p>
     </td>
     <td valign="top" width="50%" align="center">
-      <h1>🍔</h1>
-      <h3>Nhumy</h3>
+      <img src="assets/nhumy-logo.svg" width="200" alt="Nhumy logo" />
       <p><em>Ementa digital para restaurantes.</em></p>
       <p>Digital menus for restaurants in Portugal — create your menu in minutes, generate QR codes, and receive orders via WhatsApp. Free to start. Built with React, Vite & Supabase.</p>
       <p>
