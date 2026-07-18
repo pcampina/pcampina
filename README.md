@@ -1,22 +1,30 @@
-## 🚀 Featured App — PawseKeys
+## 🚀 My Products
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
-      <h3>🐾 PawseKeys Lite</h3>
-      <p>My first app on the <strong>Mac App Store</strong>! A lightweight keyboard utility for cat & pet lovers.</p>
+    <td valign="top" width="50%" align="center">
+      <img src="https://pawsekeys.app/assets/pawsekeys-logo.png" width="90" alt="PawseKeys logo" />
+      <h3>PawseKeys</h3>
+      <p><em>Lock the keyboard. Clean, protect, focus.</em></p>
+      <p>A native macOS keyboard-locking utility — one-click lock, menu bar controls, countdown timers, and an Apple Watch companion. Built in Swift, offline-first, zero data collection.</p>
       <p>
+        <a href="https://pawsekeys.app">
+          <img src="https://img.shields.io/badge/pawsekeys.app-Website-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />
+        </a>
+        <br /><br />
         <a href="https://apps.apple.com/pt/app/pawsekeys-lite/id6761140255?l=en-GB&mt=12">
           <img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
         </a>
       </p>
     </td>
-    <td valign="top" width="50%">
-      <h3>🐾 PawseKeys Pro</h3>
-      <p>The full-featured pro version with even more power and customization for the ultimate experience.</p>
+    <td valign="top" width="50%" align="center">
+      <h1>🍔</h1>
+      <h3>Nhumy</h3>
+      <p><em>Ementa digital para restaurantes.</em></p>
+      <p>Digital menus for restaurants in Portugal — create your menu in minutes, generate QR codes, and receive orders via WhatsApp. Free to start. Built with React, Vite & Supabase.</p>
       <p>
-        <a href="https://pawsekeys.app">
-          <img src="https://img.shields.io/badge/Get_PawseKeys_Pro-pawsekeys.app-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />
+        <a href="https://nhumy.app">
+          <img src="https://img.shields.io/badge/nhumy.app-Website-10B981?style=for-the-badge&logo=safari&logoColor=white" />
         </a>
       </p>
     </td>
@@ -31,16 +39,17 @@
 
 <h1>Hey, I'm Pablo Campina 👋</h1>
 
-<p><strong>Full Stack Developer · 14+ years of experience · 🇧🇷 → 🇵🇹</strong></p>
+<p><strong>Full Stack Developer & Indie Maker · 14+ years of experience · 🇧🇷 → 🇵🇹</strong></p>
 
 <p>
-  I build scalable, high-quality web applications — from pixel-perfect UIs to robust backend systems. 
+  I build scalable, high-quality web applications — from pixel-perfect UIs to robust backend systems — 
+  and ship my own products, from native macOS apps to SaaS for restaurants. 
   Over the past 14+ years, I've delivered impactful software for industry leaders across automotive, 
   engineering, and telecommunications sectors.
 </p>
 
 <p>
-  💼 &nbsp;Previously collaboration &nbsp;
+  💼 &nbsp;Previously collaborated with &nbsp;
   <strong>BMW Group</strong> &nbsp;·&nbsp;
   <strong>Capgemini Engineering</strong> &nbsp;·&nbsp;
   <strong>Ericsson</strong>
@@ -52,7 +61,7 @@
 </p>
 
 <p>
-  🌱 Currently deepening expertise in <strong>Turborepo</strong> & <strong>Angular Signals</strong>
+  🌱 Currently focused on <strong>Swift & native macOS apps</strong>, <strong>Supabase</strong> & <strong>AI-assisted development</strong>
 </p>
 
 <p>
@@ -80,12 +89,13 @@
 
 ```typescript
 const pabloCampina = {
-  role:        "Full Stack Developer",
+  role:        "Full Stack Developer & Indie Maker",
   experience:  "14+ years",
   location:    "Lisbon, Portugal 🇵🇹",
   origin:      "Brazil 🇧🇷",
   focus:       ["Scalable Web Apps", "Clean Architecture", "Developer Experience"],
-  learning:    ["Turborepo", "Angular Signals"],
+  products:    ["PawseKeys 🐾", "Nhumy 🍔"],
+  learning:    ["Swift & macOS", "Supabase", "AI-assisted development"],
   contact:     "pablo@campina.dev",
 };
 ```
@@ -101,13 +111,22 @@ const pabloCampina = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
+**Native & Mobile**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![watchOS](https://img.shields.io/badge/watchOS-000000?style=flat-square&logo=apple&logoColor=white)
+
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -123,15 +142,16 @@ const pabloCampina = {
 **DevOps & Cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 
-**Testing & Tooling**
+**AI & Tooling**
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
